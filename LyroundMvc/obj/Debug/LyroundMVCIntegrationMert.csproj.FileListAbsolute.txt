@@ -1,0 +1,413 @@
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csc.exe
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csc.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csc.rsp
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csi.exe
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csi.rsp
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.AppContext.dll
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\vbc.exe
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\vbc.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\vbc.rsp
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\LyroundMVCIntegrationMert.dll.config
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\LyroundMVCIntegrationMert.dll
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\LyroundMVCIntegrationMert.pdb
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.dll
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.SqlServer.dll
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Helpers.dll
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Mvc.dll
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Razor.dll
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Deployment.dll
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.dll
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Razor.dll
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.xml
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.SqlServer.xml
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Razor.xml
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.xml
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Deployment.xml
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Razor.xml
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Helpers.xml
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Mvc.xml
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\obj\Debug\LyroundMVCIntegrationMert.dll
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\obj\Debug\LyroundMVCIntegrationMert.pdb
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\obj\Debug\LyroundMVCIntegrationMert.Migrations.InitialCreate.resources
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\obj\Debug\LyroundMVCIntegrationMert.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\obj\Debug\LyroundMVCIntegrationMert.Migrations.arkadasTestekle.resources
+C:\Users\User\documents\visual studio 2017\Projects\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\obj\Debug\LyroundMVCIntegrationMert.csprojResolveAssemblyReference.cache
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csc.exe
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csc.exe.config
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csc.rsp
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csi.exe
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csi.rsp
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.AppContext.dll
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.Collections.Immutable.dll
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.IO.FileSystem.dll
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.Reflection.Metadata.dll
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\vbc.exe
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\vbc.exe.config
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\vbc.rsp
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\VBCSCompiler.exe
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\VBCSCompiler.exe.config
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\LyroundMVCIntegrationMert.dll.config
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\LyroundMVCIntegrationMert.dll
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\LyroundMVCIntegrationMert.pdb
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.dll
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.SqlServer.dll
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\Microsoft.Web.Infrastructure.dll
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Helpers.dll
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Mvc.dll
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Razor.dll
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Deployment.dll
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.dll
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Razor.dll
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.xml
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.SqlServer.xml
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Razor.xml
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.xml
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Deployment.xml
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Razor.xml
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Helpers.xml
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Mvc.xml
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\obj\Debug\LyroundMVCIntegrationMert.csprojResolveAssemblyReference.cache
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\obj\Debug\LyroundMVCIntegrationMert.Migrations.InitialCreate.resources
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\obj\Debug\LyroundMVCIntegrationMert.Migrations.arkadasTestekle.resources
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\obj\Debug\LyroundMVCIntegrationMert.csproj.GenerateResource.Cache
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\obj\Debug\LyroundMVCIntegrationMert.dll
+H:\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\obj\Debug\LyroundMVCIntegrationMert.pdb
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\obj\Debug\LyroundMVCIntegrationMert.csprojResolveAssemblyReference.cache
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csc.exe
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csc.exe.config
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csc.rsp
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csi.exe
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csi.rsp
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.AppContext.dll
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\vbc.exe
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\vbc.exe.config
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\vbc.rsp
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\VBCSCompiler.exe
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\LyroundMVCIntegrationMert.dll.config
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\LyroundMVCIntegrationMert.dll
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\LyroundMVCIntegrationMert.pdb
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.dll
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.SqlServer.dll
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Helpers.dll
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Mvc.dll
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Razor.dll
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.dll
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Razor.dll
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.xml
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.SqlServer.xml
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Razor.xml
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.xml
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Razor.xml
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Helpers.xml
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Mvc.xml
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\obj\Debug\LyroundMVCIntegrationMert.dll
+C:\Users\Omer\Desktop\Proje Son Hal\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\obj\Debug\LyroundMVCIntegrationMert.pdb
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csc.exe
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csc.exe.config
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csc.rsp
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csi.exe
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csi.rsp
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.AppContext.dll
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\vbc.exe
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\vbc.exe.config
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\vbc.rsp
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\VBCSCompiler.exe
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\LyroundMVCIntegrationMert.dll.config
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\LyroundMVCIntegrationMert.dll
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\LyroundMVCIntegrationMert.pdb
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.dll
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.SqlServer.dll
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Helpers.dll
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Mvc.dll
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Razor.dll
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.dll
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Razor.dll
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.xml
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.SqlServer.xml
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Razor.xml
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.xml
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Razor.xml
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Helpers.xml
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Mvc.xml
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\obj\Debug\LyroundMVCIntegrationMert.dll
+C:\Users\Omer\Desktop\PROJE\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\obj\Debug\LyroundMVCIntegrationMert.pdb
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csc.exe
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csc.exe.config
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csc.rsp
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csi.exe
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csi.rsp
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.AppContext.dll
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\vbc.exe
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\vbc.exe.config
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\vbc.rsp
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\LyroundMVCIntegrationMert.dll.config
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\LyroundMVCIntegrationMert.dll
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\LyroundMVCIntegrationMert.pdb
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.dll
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.SqlServer.dll
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Helpers.dll
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Mvc.dll
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Razor.dll
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.dll
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Razor.dll
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.xml
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.SqlServer.xml
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Razor.xml
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.xml
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Razor.xml
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Helpers.xml
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Mvc.xml
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\obj\Debug\LyroundMVCIntegrationMert.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\obj\Debug\LyroundMVCIntegrationMert.dll
+C:\Users\Mustafa Yumurtacı\Desktop\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\obj\Debug\LyroundMVCIntegrationMert.pdb
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csc.exe
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csc.exe.config
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csc.rsp
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csi.exe
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csi.rsp
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.AppContext.dll
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\vbc.exe
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\vbc.exe.config
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\vbc.rsp
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\VBCSCompiler.exe
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\LyroundMVCIntegrationMert.dll.config
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\LyroundMVCIntegrationMert.dll
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\LyroundMVCIntegrationMert.pdb
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.dll
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.SqlServer.dll
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Helpers.dll
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Mvc.dll
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Razor.dll
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.dll
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Razor.dll
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.xml
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.SqlServer.xml
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Razor.xml
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.xml
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Razor.xml
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Helpers.xml
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Mvc.xml
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\obj\Debug\LyroundMVCIntegrationMert.csprojResolveAssemblyReference.cache
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\obj\Debug\LyroundMVCIntegrationMert.dll
+C:\Users\Omer\Desktop\2107roje sabahı\Çevrilmiş_Mustafa\1907Yedek\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\obj\Debug\LyroundMVCIntegrationMert.pdb
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csc.exe
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csc.exe.config
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csc.rsp
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csi.exe
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csi.rsp
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.AppContext.dll
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\vbc.exe
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\vbc.exe.config
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\vbc.rsp
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\VBCSCompiler.exe
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\LyroundMVCIntegrationMert.dll.config
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\LyroundMVCIntegrationMert.dll
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\LyroundMVCIntegrationMert.pdb
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.dll
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.SqlServer.dll
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Helpers.dll
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Mvc.dll
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Razor.dll
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.dll
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Razor.dll
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.xml
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.SqlServer.xml
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Razor.xml
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.xml
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Razor.xml
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Helpers.xml
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Mvc.xml
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\obj\Debug\LyroundMVCIntegrationMert.csprojResolveAssemblyReference.cache
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\obj\Debug\LyroundMVCIntegrationMert.dll
+C:\Users\Omer\Desktop\2107roje sabahı\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\obj\Debug\LyroundMVCIntegrationMert.pdb
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csc.exe
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csc.exe.config
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csc.rsp
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csi.exe
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\csi.rsp
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.AppContext.dll
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\vbc.exe
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\vbc.exe.config
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\vbc.rsp
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\VBCSCompiler.exe
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\LyroundMVCIntegrationMert.dll.config
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\LyroundMVCIntegrationMert.dll
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\LyroundMVCIntegrationMert.pdb
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.dll
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.SqlServer.dll
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Helpers.dll
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Mvc.dll
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Razor.dll
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.dll
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Razor.dll
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.xml
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\EntityFramework.SqlServer.xml
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Razor.xml
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.xml
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Webpages.Razor.xml
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Helpers.xml
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\bin\System.Web.Mvc.xml
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\obj\Debug\LyroundMVCIntegrationMert.csprojResolveAssemblyReference.cache
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\obj\Debug\LyroundMVCIntegrationMert.dll
+C:\Users\Omer\Desktop\2107YedekGuncel\LyroundMVCIntegrationMert\LyroundMVCIntegrationMert\obj\Debug\LyroundMVCIntegrationMert.pdb
